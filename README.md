@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cruxkill
-- 👀 I’m interested in Data science, web design, scientific programing
+- 👀 I’m interested in Data science, web design, scientific computing
 - 💞️ I’m looking to collaborate on Matlab, Python and any other scientific computing software I can help with
 - 📫 No contact info for now
 
